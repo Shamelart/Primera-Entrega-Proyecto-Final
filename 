@@ -1,0 +1,4 @@
+[main (root-commit) 9463f83] primer commir
+ 2 files changed, 95 insertions(+)
+ create mode 100644 index.html
+ create mode 100644 script.js
